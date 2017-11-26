@@ -1,0 +1,57 @@
+@font-face { font-family: Cubic; src: url('../fonts/custom/cubic.ttf'); } 
+@font-face { font-family: Dark Ministry; src: url('../fonts/custom/dark-ministry.ttf');}
+
+@font-face { font-family: Headshots; src: url('../fonts/custom/headshots.otf'); } 
+@font-face { font-family: Kill Caps; src: url('../fonts/custom/in-for-the-kill-caps.ttf');}
+
+@font-face { font-family: Katfyred; src: url('../fonts/custom/katfyred.ttf'); } 
+@font-face { font-family: Rabid Science; src: url('../fonts/custom/rabid-science.ttf');}
+@font-face { font-family: Xperia; src: url('../fonts/custom/xperia.ttf'); }
+
+.cubic{font-family:Cubic !important;}
+.dark-ministry{font-family:Dark Ministry !important;}
+.headshots{font-family:Headshots !important;}
+.kill-caps{font-family:Kill Caps !important;}
+.katfyred{font-family:Katfyred !important;}
+.rabid-science{font-family:Rabid Science !important;}
+.xperia{font-family:Xperia !important;}
+
+.montserrat{font-family: 'Montserrat', sans-serif;}
+.oswald{font-family: 'Oswald', sans-serif;}
+.roboto-condensed{font-family: 'Roboto Condensed', sans-serif;}
+.raleway{font-family: 'Raleway', sans-serif;}
+.open-sans{font-family: 'Open Sans', sans-serif;}
+.roboto{font-family: 'Roboto', sans-serif;}
+.lato{font-family: 'Lato', sans-serif;}
+.open-sans-condensed{font-family: 'Open Sans Condensed', sans-serif;}
+.playfair-display{font-family: 'Playfair Display', serif;}
+.fjalla-one{font-family: 'Fjalla One', sans-serif;}
+.oranienbaum{font-family: 'Oranienbaum', serif;}
+.vollkorn{font-family: 'Vollkorn', serif;}
+
+h1.title{font-size:100px;font-weight:900;}
+h1{font-size:48px}
+h2{font-size:36px}
+h3{font-size:24px}
+p, a{font-size:20px}
+
+.loose {letter-spacing:1.5vw;padding-left:1.5vw;}
+.loose2 {letter-spacing:0.7vw;padding-left:0.7vw;}
+
+.small-caps {font-variant:small-caps;}
+
+@media only screen and (max-width: 768px){
+h1.title{font-size:60px}
+h1{font-size:36px}
+h2{font-size:28px}
+h3{font-size:20px}
+p, a{font-size:17px}
+}
+
+@media only screen and (max-width: 420px){
+h1.title{font-size:36px}
+h1{font-size:28px}
+h2{font-size:22px}
+h3{font-size:16px}
+p, a{font-size:14px}
+}

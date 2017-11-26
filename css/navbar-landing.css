@@ -1,0 +1,20 @@
+
+.bg-dark {
+	background-color:rgba(0,0,0,0.67) !important;
+}
+
+.nav-item a {
+	-moz-transition: 0.32s;
+	-webkit-transition: 0.32s;
+	-0-transition: 0.32s;
+}
+
+@media (max-width: 960px) {
+	.bg-dark {
+	background-color:rgba(0,0,0,0.7) !important;
+}
+	
+.navbar, .dropdown-item{
+  margin-right: 0 !important;
+  margin-left: 0 !important;}
+}

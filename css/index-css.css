@@ -1,0 +1,66 @@
+.layer {
+  background-position: bottom center;
+  background-size: auto;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 800px;
+  position: fixed;
+  z-index: -1;
+}
+
+#hero {
+  height: 800px;
+  overflow: hidden;
+  position: relative;
+}
+
+#hero-mobile {
+  display: none;
+  background: url('../images/02_bg/bg_mobile.png') no-repeat center bottom/cover;
+  height: 650px;
+}
+
+.layer-bg {
+  background-image: url("../images/02_bg/bg_index.jpg");
+}
+
+.layer-1 {
+  background-image: url("../images/03_index/stars_index.png");
+  background-position: center top;
+}
+
+.layer-2 {
+  background-image: url("../images/03_index/lion_index.png");
+  background-position: center bottom;
+}
+
+.layer-3 {
+  background-image: url("../images/03_index/orang_index.png");
+  background-position: center;
+  margin-top:170px;
+}
+
+.layer-4 {
+  background-image: url("../images/02_bg/bg_asap.png");
+}
+
+.layer-5 {
+  background-image: url("../images/01_logo/logo_index.png");
+  background-position:center;
+}
+
+.layer-6 {
+  background-image: url("../images/02_bg/bg_asap_180.png");
+  background-position:center top;
+}
+
+
+@media only screen and (max-width: 768px) {
+  #hero {
+    display: none;
+  }
+
+  #hero-mobile {
+    display: block;
+  }
+}

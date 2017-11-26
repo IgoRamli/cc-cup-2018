@@ -1,0 +1,11 @@
+.btn-red{background-color:#fff;border-color:#f25f5c}
+.btn-red:hover{background-color:#f25f5c}
+
+.btn-red2{background-color:#fff;border-color:#6e0e0a;}
+.btn-red2:hover{background-color:#6e0e0a;;color:white;}
+
+.btn-0{background-color:#49b291;border-color:#49b291}
+.btn-0:hover{background-color:rgba(0,0,0,0);color:white;}
+
+.btn-01{background-color:#125842;border-color:#125842;color:white !important;}
+.btn-01:hover{background-color:rgba(0,0,0,0);}

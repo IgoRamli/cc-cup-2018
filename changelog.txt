@@ -1,0 +1,97 @@
+Changelog Web Sisikap 2018
+---------------------
+V-0.3. (Hardy) - ???
+	*Thou He has born. 
+==
+V-0.3.1 (Aryo) - 5/11/2017 12.51AM
+
+	*CSS Optimalization (Some CSS classes are bugged)
+	*Added fitur footer dipaling bawah
+	*Added fitur hover
+	*Added font font-awesome.css
+	*Changed CSS Bootstrap from online to offline (Server-Based)
+==
+V-0.3.2 (Hardy) - 5/11/2017 4.04PM
+
+	*Added page "competitions.php"	
+	*Removed competitions dropdown
+==
+V-0.3.3 (Aryo) - 5/11/2017 4.56PM
+
+	*Fixed Hover effect (hover.css)
+	*Fixed 'Competitions' on footer (03A.footer.php & 03B.footer.php)
+==
+V-0.3.4 (Aryo) - 5/11/2017 10.25PM
+
+	-Finished-
+	*Restored competitions dropdown
+	*Skrollr.js used
+	*Revamped "competitions.php" using "skrollr.js" parallax-scrolling
+	*Competitions page now works using #id (1 page for 16 competitions)
+	*Added smooth transition (using -moz-transition) for a:hover (Transition set to 0.32s)
+	*Added Basic template for each competition 
+	*Fixed footer information about competitions
+	*Fixed footer and header links to competitions (using #id to competition page)
+	*Navbar opacity (in RGBA) changed to 0.67 for large screens and 0.7 for mobile
+	*Removed 'contact' tab on navbar (Contacts are now available down below at footer)
+==
+V-0.3.5 (Aryo) - 6/11/2017 2.33PM
+	
+	-Finished-
+	*Registration page front
+	*Registration page script (registrationgo.php)
+	*"registrationgo.php" detects if user already choose a field or not. Auto-redirect to registration.php if not choosen yet.
+==
+V-0.3.6 (Aryo) - 9/11/2017 12.06PM
+
+	-Finished-
+	*Registration script addede to each competitions tab. Now users can register via competitions page corresponding to each field of competition.
+	*Added datepicker javascript plugin
+==
+V-0.3.7 (Aryo) - 13/11/2017 - 11.49AM
+
+	-Finished-
+	*Added 'btn-cccup' class
+	 
+	-To Do-
+	^Finish "competitions.php"
+	^Finish database for online registration
+	^Make registration page
+	^Make download guide and download schedule page
+	^Make accessible schedule page
+	^Improve competitions page using "skrollr.js"
+	^Get color pallete from design commt.
+	^Get design elements from design commt.
+
+V-0.3.8 (Hardy)- 21/11/2017 - 6.00PM
+
+	-Finished-
+	*Added 'btn-cccup' class
+	*updated! Verificator.php 
+	 
+	-To Do-
+	^Finish "competitions.php"
+	^Finish database for online registration
+	^Make registration page
+	^Make download guide and download schedule page
+	^Make accessible schedule page
+	^Improve competitions page using "skrollr.js"
+	^Get color pallete from design commt.
+	^Get design elements from design commt.
+
+V-0.5.0 (Hardy)- 25/11/2017 - 2.00PM
+
+	-Finished-
+	*Finished "competitions.php"
+	*Finished "downloads guide"
+
+	-To Do-
+	
+	*Create seperate PHP Variables for use!
+	*Finish database for online registration
+	*Make registration page
+	*Make download schedule page
+	*Make accessible schedule page
+	*Improve competitions page using "skrollr.js"
+	*Get color pallete from design commt.
+	^Get design elements from design commt.
